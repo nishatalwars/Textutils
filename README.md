@@ -1,2 +1,2 @@
 # textutils
- This Application works with the text functionalities
+ This Application works with text functionalities using React
