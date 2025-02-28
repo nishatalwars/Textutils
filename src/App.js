@@ -48,7 +48,7 @@ showAlert("light mode has been enabled","success");
             {/* <About /> */}
      
       
-          <SearchForm showAlert= {showAlert} heading="Enter your text to Analyze Below" mode={mode} />
+          <SearchForm showAlert= {showAlert} heading="Enter your text to Analyze Below Content" mode={mode} />
       
         </div>
         
